@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="title_error">Не удалось загрузить данные о погоде. Попробуйте, пожалуйста, ещё раз</string>
+    <string name="weather_icon">Изображение погоды</string>
+    <string name="sunrise">рассвет</string>
+    <string name="sunset">закат</string>
+    <string name="wind">ветер</string>
+    <string name="wind_direction">направление ветра</string>
+    <string name="pressure">давление</string>
+    <string name="humidity">влажность</string>
+    <string name="visibility">видимость</string>
+    <string name="daily_forecast">ежедневный прогноз</string>
+    <string name="search_icon">Поиск города</string>
+    <string name="back_stack">Возврат назад</string>
+    <string name="country_image">Флаг государства</string>
+    <string name="coordinates">координаты:</string>
+    <string name="morning">утро</string>
+    <string name="day">день</string>
+    <string name="evening">вечер</string>
+    <string name="night">ночь</string>
+</resources>
